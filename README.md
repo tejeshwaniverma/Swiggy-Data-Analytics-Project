@@ -1,4 +1,4 @@
-#Swiggy Sales Dashboard Analysis
+Swiggy Sales Dashboard Analysis
 
 An interactive Swiggy Sales Dashboard built using Microsoft Excel to analyze food order data and transform raw data into meaningful business insights.
 
@@ -22,4 +22,4 @@ This project demonstrates how Excel can be used to analyze sales performance, id
 
 
 
-![image alt}https://github.com/tejeshwaniverma/Swiggy-Data-Analytics-Project/blob/b84ea1ff275b0502374fb2c895348ea17d953bdb/Screenshot%202026-08-28%20102349.png
+![image alt}(https://github.com/tejeshwaniverma/Swiggy-Data-Analytics-Project/blob/b84ea1ff275b0502374fb2c895348ea17d953bdb/Screenshot%202026-08-28%20102349.png)
